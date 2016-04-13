@@ -1,14 +1,14 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: 'an email to a friend:'
-datePublished: '2016-04-13T18:25:33.909Z'
-dateModified: '2016-04-13T18:25:27.028Z'
-title: ''
+description: ''
+datePublished: '2016-04-13T18:27:47.931Z'
+dateModified: '2016-04-13T18:25:40.863Z'
+title: 'an email to a friend:'
 author: []
 sourcePath: _posts/2016-04-13-an-email-to-a-friend.md
 published: true
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: an-email-to-a-friend/index.html
-_type: Article
+_type: Blurb
 
 ---
 an email to a friend:
