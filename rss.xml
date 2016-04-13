@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[report-cards]]></title>
-        <description><![CDATA[report-cards]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Criticisms]]></title>
+        <description><![CDATA[Criticisms]]></description>
+        <link>https://thegrid.ai/report-cards/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Apr 2016 18:14:53 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 13 Apr 2016 18:17:36 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/report-cards/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <link>undefined04a82a8e-bca0-428c-bb68-957f4879faa2/index.html</link>
-            <guid isPermaLink="false">04a82a8e-bca0-428c-bb68-957f4879faa2</guid>
-            <pubDate>Wed, 13 Apr 2016 18:14:52 GMT</pubDate>
+            <description><![CDATA[<p>an email to a friend:</p>]]></description>
+            <link>https://thegrid.ai/report-cards/an-email-to-a-friend/index.html</link>
+            <guid isPermaLink="false">55b8e88f-bdce-4977-834c-522866ef30f3</guid>
+            <pubDate>Wed, 13 Apr 2016 18:16:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
