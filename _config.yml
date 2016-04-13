@@ -2,6 +2,7 @@ name: report-cards
 favicon: null
 layout_spectrum: 0.5471409177407622
 typography_spectrum: 0.9040183681063354
+title: Criticisms
 cta:
   domain: null
   bucket: null
