@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'an email to a friend:'
-datePublished: '2016-04-13T18:16:47.687Z'
-dateModified: '2016-04-13T18:16:47.046Z'
+datePublished: '2016-04-13T18:25:33.909Z'
+dateModified: '2016-04-13T18:25:27.028Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-13-an-email-to-a-friend.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-13-an-email-to-a-friend.md
-published: true
 url: an-email-to-a-friend/index.html
 _type: Article
 
