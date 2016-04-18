@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-18T02:31:57.231Z'
-dateModified: '2016-04-17T21:40:09.022Z'
+datePublished: '2016-04-18T02:56:27.267Z'
+dateModified: '2016-04-18T02:55:02.093Z'
 title: 'an email to a friend:'
 author: []
 sourcePath: _posts/2016-04-13-an-email-to-a-friend.md
