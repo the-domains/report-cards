@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: november
-datePublished: '2016-04-17T21:38:51.368Z'
-dateModified: '2016-04-17T21:38:51.068Z'
+description: the water was still in a psychiatric ward
+datePublished: '2016-04-18T02:56:40.056Z'
+dateModified: '2016-04-17T21:39:13.109Z'
 title: the last 30 minutes
+author: []
+sourcePath: _posts/2016-04-17-the-last-30-minutes.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-author: []
-sourcePath: _posts/2016-04-17-the-last-30-minutes.md
-published: true
 url: the-last-30-minutes/index.html
 _type: Article
 
