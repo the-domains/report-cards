@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: the water was still in a psychiatric ward
-datePublished: '2016-04-18T02:56:40.056Z'
-dateModified: '2016-04-17T21:39:13.109Z'
+datePublished: '2016-04-18T02:57:07.378Z'
+dateModified: '2016-04-18T02:56:48.161Z'
 title: the last 30 minutes
 author: []
 sourcePath: _posts/2016-04-17-the-last-30-minutes.md
